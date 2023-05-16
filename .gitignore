@@ -1,0 +1,5 @@
+.env
+
+.chroma/
+node_modules/
+dist/
